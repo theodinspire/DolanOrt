@@ -1,3 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://theodinspire.github.io/dolan-ort/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Dolan-Ort Campaign"
+theme = "base16"
+
+publishDir = "docs"
