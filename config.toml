@@ -1,0 +1,6 @@
+baseURL = "https://theodinspire.github.io/dolanort/"
+languageCode = "en-us"
+title = "Dolan-Ort Campaign"
+theme = "base16"
+
+publishDir = "docs"
