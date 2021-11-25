@@ -5,7 +5,7 @@ draft: true
 ---
 
 Starting exp: 2024  
-Starting moneys: 336, 117, 28, 78, 2
+Starting moneys: 336c, 117s, 28e, 78g, 2p
 
 Flat landscape, no signs of civilization
 
